@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ismilad
+- 👋 Hi, I’m Ismail Malik Akanfe
 - 👀 I’m interested in continuous learning and Data science|analytics project excecusion.
 - 🌱 I’m currently learning Data science.
 - 💞️ I’m looking to collaborate on Data science projects.
